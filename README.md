@@ -51,5 +51,9 @@
 - [3-3: Absence of Arbitrage](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter3-3-4.pdf)
 - [3-4: No Arbitrage and Price System](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter3-3-4.pdf)
 - [3-5: Martingale Measures](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter3-5.pdf)
+- [3-6: Pricing](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter3-6.pdf)
+- [3-7: Complete Market Model](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter3-7.pdf)
 
+### Chapter 4: Multi Period Model
+- [4-1: The Market Model](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-1.pdf)
 
