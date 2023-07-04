@@ -56,4 +56,6 @@
 
 ### Chapter 4: Multi Period Model
 - [4-1: The Market Model](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-1.pdf)
+- [4-2: Arbitrage Opportunity](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-2.pdf)
+- [4-3: Martingale Measures](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-3.pdf)
 
