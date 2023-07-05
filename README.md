@@ -58,4 +58,8 @@
 - [4-1: The Market Model](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-1.pdf)
 - [4-2: Arbitrage Opportunity](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-2.pdf)
 - [4-3: Martingale Measures](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-3.pdf)
+- [4-4: Aribitrage free prices for European contingent claim](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter4-4.pdf)
+
+### Chapter 4: Stopping Time
+- [5-1: The Stopping Time](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter5-1.pdf)
 
