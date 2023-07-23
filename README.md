@@ -62,4 +62,6 @@
 
 ### Chapter 4: Stopping Time
 - [5-1: The Stopping Time](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter5-1.pdf)
+- [5-2: American Claims](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter5-2.pdf)
+- [5-3: Arbitrage-free Prices](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter5-3.pdf)
 
