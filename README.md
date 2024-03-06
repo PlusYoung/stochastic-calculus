@@ -65,3 +65,7 @@
 - [5-2: American Claims](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter5-2.pdf)
 - [5-3: Arbitrage-free Prices](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter5-3.pdf)
 
+### Chapter 6: Measures of Risk
+- [6-0: Measures of Risk](https://github.com/PlusYoung/stochastic-calculus/blob/main/chapter6-0.pdf)
+
+
